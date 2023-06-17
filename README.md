@@ -11,3 +11,7 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 - Email: [bilalalghiffari53@gmail.com](bilalalghiffari53@gmail.com)
 - LinkedIn: [bilal-al-ghiffari](https://www.linkedin.com/in/bilal-al-ghiffari/)
 - Instagram: [@bilalalffari](https://www.instagram.com/bilalalffari/)
+
+### 🚀 Actiity:
+2022 - Bootcamp Javascript Developer in Buildwithangga
+2023 - Bootcamp React and React Native in Hacktiv8
