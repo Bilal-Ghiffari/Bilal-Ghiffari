@@ -29,6 +29,6 @@ I always try to learn new technologies to satisfy my curiosity and improve my sk
 - LinkedIn: [bilal-al-ghiffari](https://www.linkedin.com/in/bilal-al-ghiffari/)
 - Instagram: [@bilalalffari](https://www.instagram.com/bilalalffari/)
 
-### 🚀 Actiity:
+### 🚀 Activity:
 - Bootcamp FullStack Javascript in Buildwithangga (2022)
 - Bootcamp React and React Native in Hacktiv8 (2023)
